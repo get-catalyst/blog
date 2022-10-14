@@ -1,6 +1,6 @@
 ---
 title: General
-description: General uncategorized category
+description: General uncategorized
 image:
 
 # Badge style
