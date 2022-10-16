@@ -9,7 +9,7 @@ title = "Catalyst Blog"
 DefaultContentLanguage = "en"
 
 [markup.goldmark.renderer]
-  unsafe = true
+unsafe = true
 
 # Set hasCJKLanguage to true if DefaultContentLanguage is in [zh-cn ja ko]
 # This will make .Summary and .WordCount behave correctly for CJK languages.
