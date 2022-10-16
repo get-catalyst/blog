@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Release on Catalyst Blog</title><link>https://blog.getcatalyst.eu.org/categories/release/</link><description>Recent content in Release on Catalyst Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 14 Oct 2022 12:23:25 -0500</lastBuildDate><atom:link href="https://blog.getcatalyst.eu.org/categories/release/index.xml" rel="self" type="application/rss+xml"/><item><title>Catalyst v3.2.3</title><link>https://blog.getcatalyst.eu.org/p/ctlyst-v323/</link><pubDate>Fri, 14 Oct 2022 12:23:25 -0500</pubDate><guid>https://blog.getcatalyst.eu.org/p/ctlyst-v323/</guid><description>&lt;h1 id="catalyst-v323-announcement">Catalyst v3.2.3 Announcement!&lt;/h1>
+&lt;p>&lt;strong>Bug Fixes&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Disable update indicator&lt;/li>
+&lt;/ul></description></item></channel></rss>

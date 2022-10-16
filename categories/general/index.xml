@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>General on Catalyst Blog</title><link>https://blog.getcatalyst.eu.org/categories/general/</link><description>Recent content in General on Catalyst Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 16 Oct 2022 14:54:53 -0500</lastBuildDate><atom:link href="https://blog.getcatalyst.eu.org/categories/general/index.xml" rel="self" type="application/rss+xml"/><item><title>Duck</title><link>https://blog.getcatalyst.eu.org/p/duck/</link><pubDate>Sun, 16 Oct 2022 14:54:53 -0500</pubDate><guid>https://blog.getcatalyst.eu.org/p/duck/</guid><description>&lt;h1 id="i-like-ducks">I like ducks&lt;/h1>
+&lt;p>&lt;a class="link" href="https://content.jaydendev.repl.co/duck.mp4%22" target="_blank" rel="noopener"
+>Duck!&lt;/a>&lt;/p></description></item><item><title>v3.3.0 Announcement</title><link>https://blog.getcatalyst.eu.org/p/v3.3.0-announcement/</link><pubDate>Fri, 14 Oct 2022 18:04:26 -0500</pubDate><guid>https://blog.getcatalyst.eu.org/p/v3.3.0-announcement/</guid><description>&lt;h1 id="catalyst-v330">Catalyst v3.3.0&lt;/h1>
+&lt;p>&lt;strong>Features&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Global Dark Mode, Dark mode for all sites.&lt;/li>
+&lt;li>Several API changes.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;em>Breaking changes in this release such as API changes and code refactoring, make sure to review all changes and fix up your plugins for this release&lt;/em>&lt;/p></description></item><item><title>Welcome to the Catalyst blog!</title><link>https://blog.getcatalyst.eu.org/p/hello-world/</link><pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate><guid>https://blog.getcatalyst.eu.org/p/hello-world/</guid><description>&lt;img src="https://blog.getcatalyst.eu.org/p/hello-world/cover.jpg" alt="Featured image of post Welcome to the Catalyst blog!" />&lt;h1 id="welcome-to-the-catalyst-blog">Welcome to the Catalyst blog!&lt;/h1>
+&lt;p>Here you will find the latest!&lt;/p>
+&lt;blockquote>
+&lt;p>Photo by &lt;a class="link" href="https://unsplash.com/@pawel_czerwinski" target="_blank" rel="noopener"
+>Pawel Czerwinski&lt;/a> on &lt;a class="link" href="https://unsplash.com/" target="_blank" rel="noopener"
+>Unsplash&lt;/a>&lt;/p>
+&lt;/blockquote></description></item></channel></rss>
