@@ -6,4 +6,4 @@ categories:
     - General
 ---
 # I like ducks
-<iframe src="https://content.jaydendev.repl.co/duck.mp4" height="200" width="400">
+[Duck!](https://content.jaydendev.repl.co/duck.mp4")
